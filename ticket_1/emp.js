@@ -1,6 +1,6 @@
 let employees=["John","Sarah","Eric"];
 
-// add a new employee tot the end of the array
+// add a new employee to the end of the array
 employees.push("Joe");
 console.log(employees);
 
